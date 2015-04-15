@@ -12,6 +12,22 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
 		%{<p>
 			Ruby kokokokkokokokokkokokokok
 		</p>},
-	image_url: 'ruby.jpg',
+	image_url: 'baget.jpg',
+	price: 49.50)
+
+Product.create!(title: 'govno',
+	description:
+		%{<p>
+			govno = govno
+		</p>},
+	image_url: '231434403.png',
+	price: 49.50)
+
+Product.create!(title: 'svarc',
+	description:
+		%{<p>
+			mega tons of sheet
+		</p>},
+	image_url: 'haters.jpg',
 	price: 49.50)
 #..
